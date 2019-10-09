@@ -1,0 +1,11 @@
+{
+  "type": "Feature",
+  "id": "map-kibera",
+  "properties": {},
+  "geometry": {
+    "type": "MultiPolygon",
+    "coordinates": [
+      ...
+    ]
+  }
+}
